@@ -1,6 +1,6 @@
 # Game of Flags
 
-This project is related to article on medium on this link and related youtube video [here](https://youtu.be/zCrRtjX8UQE).
+This project is related to article on medium [link](https://medium.com/youstart-labs/intro-to-angular-6-using-game-of-flags-8f83cba1be08) and related youtube video [here](https://youtu.be/zCrRtjX8UQE).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
